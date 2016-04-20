@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: 93162942be158d94991fc667022c7252
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RES_doorH10
+    100004: RES_doorH10.Shape
+    100006: RES_groundH10_534.Shape
+    100008: RES_H10a_2437
+    100010: RES_H10a_2437.Shape
+    100012: RES_H10b_4609
+    100014: RES_H10b_4609.Shape
+    100016: RES_H10c_2638
+    100018: RES_H10c_2638.Shape
+    100020: RES_wallH10_786
+    100022: RES_wallH10_786.Shape
+    400000: //RootNode
+    400002: RES_doorH10
+    400004: RES_doorH10.Shape
+    400006: RES_groundH10_534.Shape
+    400008: RES_H10a_2437
+    400010: RES_H10a_2437.Shape
+    400012: RES_H10b_4609
+    400014: RES_H10b_4609.Shape
+    400016: RES_H10c_2638
+    400018: RES_H10c_2638.Shape
+    400020: RES_wallH10_786
+    400022: RES_wallH10_786.Shape
+    2300000: RES_doorH10.Shape
+    2300002: RES_groundH10_534.Shape
+    2300004: RES_H10a_2437.Shape
+    2300006: RES_H10b_4609.Shape
+    2300008: RES_H10c_2638.Shape
+    2300010: RES_wallH10_786.Shape
+    3300000: RES_doorH10.Shape
+    3300002: RES_groundH10_534.Shape
+    3300004: RES_H10a_2437.Shape
+    3300006: RES_H10b_4609.Shape
+    3300008: RES_H10c_2638.Shape
+    3300010: RES_wallH10_786.Shape
+    4300000: RES_H10a_2437.Shape
+    4300002: RES_H10b_4609.Shape
+    4300004: RES_H10c_2638.Shape
+    4300006: RES_doorH10.Shape
+    4300008: RES_wallH10_786.Shape
+    4300010: RES_groundH10_534.Shape
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
